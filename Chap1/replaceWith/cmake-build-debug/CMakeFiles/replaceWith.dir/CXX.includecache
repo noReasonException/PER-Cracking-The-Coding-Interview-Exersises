@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/noreasonexception/Desktop/repo/ctci/CrackingTheCodingInterview/Chap1/replaceWith/main.cpp
+iostream
+-
+
